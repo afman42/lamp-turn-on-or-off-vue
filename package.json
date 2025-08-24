@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor-community/screen-brightness": "^7.0.0",
     "@capacitor/android": "^7.4.3",
+    "@capacitor/app": "^7.0.2",
     "@capacitor/core": "^7.4.3",
     "vue": "^3.5.18"
   },
