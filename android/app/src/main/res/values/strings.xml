@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lamp-on-off-vue</string>
+    <string name="title_activity_main">lamp-on-off-vue</string>
+    <string name="package_name">com.lampTurnOnOff.app</string>
+    <string name="custom_url_scheme">com.lampTurnOnOff.app</string>
+</resources>
